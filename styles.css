@@ -1,13 +1,13 @@
 body {
   text-align: center;
-  background-color: #011F3F;
+  background-color: #252525;
 }
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
   margin:  5%;
-  color: #FEF2BF;
+  color: #f5a528;
 }
 
 .container {
@@ -50,4 +50,22 @@ body {
 .pressed {
   box-shadow: 0 0 20px white;
   background-color: grey;
+}
+.playagain {
+  text-align: center;
+  margin: 5%;
+}
+
+
+.link {
+  width: 100px;
+  height: 30px;
+  background-color: #f5a528;
+  color: #252525;
+  text-align: center;
+  border-style: none;
+}
+
+.input{
+  margin: 5%;
 }
